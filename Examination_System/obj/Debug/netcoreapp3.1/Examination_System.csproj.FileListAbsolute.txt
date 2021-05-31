@@ -1,0 +1,13 @@
+E:\ITI\iti\C# Advanced\Day5\Tasks\Examination_System\Examination_System\bin\Debug\netcoreapp3.1\Examination_System.exe
+E:\ITI\iti\C# Advanced\Day5\Tasks\Examination_System\Examination_System\bin\Debug\netcoreapp3.1\Examination_System.deps.json
+E:\ITI\iti\C# Advanced\Day5\Tasks\Examination_System\Examination_System\bin\Debug\netcoreapp3.1\Examination_System.runtimeconfig.json
+E:\ITI\iti\C# Advanced\Day5\Tasks\Examination_System\Examination_System\bin\Debug\netcoreapp3.1\Examination_System.runtimeconfig.dev.json
+E:\ITI\iti\C# Advanced\Day5\Tasks\Examination_System\Examination_System\bin\Debug\netcoreapp3.1\Examination_System.dll
+E:\ITI\iti\C# Advanced\Day5\Tasks\Examination_System\Examination_System\bin\Debug\netcoreapp3.1\Examination_System.pdb
+E:\ITI\iti\C# Advanced\Day5\Tasks\Examination_System\Examination_System\obj\Debug\netcoreapp3.1\Examination_System.csprojAssemblyReference.cache
+E:\ITI\iti\C# Advanced\Day5\Tasks\Examination_System\Examination_System\obj\Debug\netcoreapp3.1\Examination_System.AssemblyInfoInputs.cache
+E:\ITI\iti\C# Advanced\Day5\Tasks\Examination_System\Examination_System\obj\Debug\netcoreapp3.1\Examination_System.AssemblyInfo.cs
+E:\ITI\iti\C# Advanced\Day5\Tasks\Examination_System\Examination_System\obj\Debug\netcoreapp3.1\Examination_System.csproj.CoreCompileInputs.cache
+E:\ITI\iti\C# Advanced\Day5\Tasks\Examination_System\Examination_System\obj\Debug\netcoreapp3.1\Examination_System.dll
+E:\ITI\iti\C# Advanced\Day5\Tasks\Examination_System\Examination_System\obj\Debug\netcoreapp3.1\Examination_System.pdb
+E:\ITI\iti\C# Advanced\Day5\Tasks\Examination_System\Examination_System\obj\Debug\netcoreapp3.1\Examination_System.genruntimeconfig.cache
